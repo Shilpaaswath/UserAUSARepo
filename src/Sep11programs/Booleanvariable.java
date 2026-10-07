@@ -8,6 +8,9 @@ public class Booleanvariable {
 		
 		//UserB changes the Boolean variable 
 		//UserB changes the Boolean variable 
+		//userA changes the boolean variable
+		//userA changes the boolean variable
+		
 		boolean a= false;
 		boolean b= true;
 		boolean c= true;
