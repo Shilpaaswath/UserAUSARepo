@@ -6,6 +6,9 @@ public class Booleanvariable {
 
 	public static void main(String[] args) {
 		
+		
+		//gitstashon branchUserB editing this java files to check git stash command
+		
 		//UserB changes the Boolean variable 
 		//UserB changes the Boolean variable 
 		//userA changes the boolean variable
