@@ -6,7 +6,8 @@ public class Booleanvariable {
 
 	public static void main(String[] args) {
 		
-		
+		//UserB changes the Boolean variable 
+		//UserB changes the Boolean variable 
 		boolean a= false;
 		boolean b= true;
 		boolean c= true;
